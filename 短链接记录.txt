@@ -1,0 +1,16 @@
+﻿短链接记录：
+1、名称“1”，https://suo.yt/vcKNOqG  ，自己收集测速后整理的####手动更新
+2、名称“2”，https://suo.yt/1YVuVl0  ，自己收集测速后整理的####手动更新
+3、名称“3”，https://suo.yt/fpJM19c  ，自己收集测速后整理的####手动更新
+4、名称“顶级自动”，https://suo.yt/AJ9gMTp  ，由https://github.com/alanbobs999/TopFreeProxies库文件Eternity转的短链接####自动更新，更新频率3小时
+5、名称“开放1”，https://suo.yt/ClM3Kpt  ，由支链作者anjue39提供，https://github.com/anjue39/openit/blob/main/long链接里转换####自动更新，更新频率0.5小时左右，节点有效率高
+6、名称“万事屋6”，https://cdn.jsdelivr.net/gh/git-yusteven/openit@main/Clash.yaml  ，由万事屋网站提供####自动更新
+7、名称“9”，https://suo.yt/Y1At12v  ，由https://github.com/freefq/free作者库V2文件转换的链接####自动更新
+8、
+9、
+
+建议： 
+1、“开放1” 目前速度较好，节点自动更新时间短，且两个链接更新时间正好岔开；
+2、“顶级自动”大多数不能用，测速问题未解决；
+3、“万事屋6” “9”在以上无效时建议采用；
+4、“1”“2”“3”只在自己有时间才整理，以上无效在试用

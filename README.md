@@ -12,3 +12,5 @@ https://raw.fastgit.org/   加自己的链接，就组成下载地址
 1、https://www.google.com.hk/search?q=%E7%9B%AE%E5%89%8D%E5%85%B1%E6%9C%89%E6%8A%93%E5%8F%96%E6%BA%90&source=hp&ei=lslnYru-AtWGr7wPnsuWoAk&iflsig=AHkkrS4AAAAAYmfXpu1gpfl9hHAkUdqXZZk9SMConBWD&oq=%E7%9B%AE%E5%89%8D&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6FAgAEOoCELQCEIoDELcDENQDEOUCOhEIABDqAhC0AhCKAxC3AxDlAlDcHVjcHWDKRWgBcAB4AIABiwGIAYsBkgEDMC4xmAEAoAEBsAEK&sclient=gws-wiz
 
 2、https://www.google.com.hk/search?q=inurl%3Aclash%2Fproxies&gws_rd=ssl
+
+原作者开放链接：https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml

@@ -27,3 +27,12 @@ https://raw.fastgit.org/   加自己的链接，就组成下载地址
 2、https://www.google.com.hk/search?q=inurl%3Aclash%2Fproxies&gws_rd=ssl
 
 原作者开放链接：https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
+
+https://raw.githubusercontent.com/yu-steven/openit/main/long
+
+FREE  V2链接：https://raw.githubusercontent.com/freefq/free/master/v2
+
+顶级免费代理链接：  https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity
+
+
+

@@ -1,7 +1,7 @@
 ## 机场推荐
 免费节点失效太快，推荐一些性价比高的机场应急使用。
 -  [克拉云](https://bbbboo.klyfunny.org/#/register?code=zpVrkmoL)
-  - 按量计费机场, 2元1T
+  -- 按量计费机场, 2元1T
 - [魔戒.net](https://mojie.buzz/#/register?code=lWT4IGty)
   - 按量计费机场, 1¥10G, 10¥130G
   - 所有套餐均是一样的节点与一样的服务，所有套餐流量永不过期，用完为止，不限制客户端数量，最高可提供 2Gbps 峰值
